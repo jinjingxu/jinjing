@@ -3,4 +3,5 @@ The two moons may be a problem for walfman
 Venus 123456
 Hello, I'm your new friend.
 Hello back!
+Here is a new information:
 
